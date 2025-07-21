@@ -1,5 +1,15 @@
 # codeinweb
-En este repositorio encontrarás snippets de ejercicios en HTML, css y JS para hacer diferentes animaciones cortas que puedes adaptar para usarlas en tus proyectos
+## ✨ ¿Qué encontrarás en este repositorio?
+
+💻 En este repositorio encontrarás **snippets** de ejercicios en:
+
+- 🧩 **HTML**
+- 🎨 **CSS**
+- ⚙️ **JavaScript**
+
+para hacer **animaciones cortas y visuales** 🎞️ que puedes adaptar fácilmente a tus propios proyectos 🚀.
+
+Perfecto si estás aprendiendo, practicando o buscando inspiración para mejorar la experiencia visual de tus sitios web. 🌐💡
 
 ## 📲 ¡Síguenos en redes sociales!
 
