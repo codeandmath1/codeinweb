@@ -1,4 +1,7 @@
 
+## 📷 Vista previa
+
+![Preview](preview.png)
 ---
 
 ## ⚙️ Cómo usarlo
@@ -17,6 +20,8 @@ Puedes cambiar fácilmente:
 - 📐 Tamaño o estilos (bordes, sombras, etc.)
 
 ---
+
+
 
 ## 🌐 Síguenos en redes sociales
 
